@@ -64,3 +64,12 @@ char* removeLeadingSpaces(char*) : Submitted one-dimensional index
 helper that returns back by deleting leading and trailing spaces
 is function.
 ```
+
+## Example Run of Interactive Mode
+![alt text](https://github.com/htutuncu/Simple-Shell/blob/main/interactiveMode.PNG "Interactive Mode")
+
+## Example Run of Batch Mode
+![alt text](https://github.com/htutuncu/Simple-Shell/blob/main/batchMode.PNG "Batch Mode")
+
+
+
